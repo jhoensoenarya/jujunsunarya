@@ -1,0 +1,42 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+h1, h2, h5 {
+    font-weight: bold;
+}
+
+img {
+    border: 5px solid #fff;
+}
+
+.bg-light {
+    background-color: #fff !important;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.text-primary {
+    color: #007bff !important;
+}
+
+footer p {
+    color: #777;
+}
+
+
+.social-icons {
+    margin-top: 15px;
+}
+
+.social-icons a {
+    color: #007bff;
+    font-size: 24px;
+    margin: 0 10px;
+    transition: color 0.3s;
+}
+
+.social-icons a:hover {
+    color: #0056b3;
+}
